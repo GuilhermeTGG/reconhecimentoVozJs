@@ -34,14 +34,14 @@ Clone esse projeto em seu computador com o comando (Chave SSH necessária):
 
 ```bash
 #!/bin/bash
-$ git clone git@github.com:GuilhermeTGG/rickMortyAPI.git
+$ git clone git@github.com:GuilhermeTGG/reconhecimentoVozJs.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
 #!/bin/bash
-$ cd rickMortyAPI
+$ cd reconhecimentoVozJs
 ```
 
 Instale as dependências com o seguinte comando:
@@ -61,4 +61,4 @@ $ npm run start:dev
 ```
   <h2>📁Acesso ao projeto📁</h2>
  <ul>
-   <li>https://rick-morty-api-peach.vercel.app/</li>
+   <li>https://guilhermetgg.github.io/reconhecimentoVozJs/</li>
